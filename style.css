@@ -1761,6 +1761,7 @@ button:focus {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  /* flex-wrap: wrap; */
 }
 .sponsor-title {
   text-align: center;
