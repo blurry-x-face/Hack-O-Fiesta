@@ -1057,7 +1057,7 @@ button:focus {
   display: flex;
   margin-top: 66px;
   margin-bottom: 15px;
-  width: 100%;
+  /* width: 100%; */
   justify-content: center;
 }
 
@@ -1761,7 +1761,7 @@ button:focus {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  /* flex-wrap: wrap; */
+  flex-wrap: wrap;
 }
 .sponsor-title {
   text-align: center;
